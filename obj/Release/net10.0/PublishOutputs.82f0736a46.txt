@@ -1,0 +1,7 @@
+E:\courses\az-204\mod06_web_apps\sbdemo0604\bin\Release\net10.0\publish\sbdemo0604.exe
+E:\courses\az-204\mod06_web_apps\sbdemo0604\bin\Release\net10.0\publish\appsettings.Development.json
+E:\courses\az-204\mod06_web_apps\sbdemo0604\bin\Release\net10.0\publish\appsettings.json
+E:\courses\az-204\mod06_web_apps\sbdemo0604\bin\Release\net10.0\publish\sbdemo0604.dll
+E:\courses\az-204\mod06_web_apps\sbdemo0604\bin\Release\net10.0\publish\sbdemo0604.deps.json
+E:\courses\az-204\mod06_web_apps\sbdemo0604\bin\Release\net10.0\publish\sbdemo0604.runtimeconfig.json
+E:\courses\az-204\mod06_web_apps\sbdemo0604\bin\Release\net10.0\publish\sbdemo0604.pdb
